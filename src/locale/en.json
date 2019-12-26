@@ -1,0 +1,44 @@
+{
+	"locale": "ENG",
+	"font": "Quicksand",
+	"hello": "Hello",
+	"main": {
+		"name_is": "My name is ",
+		"name": "Jiraded Manopraneet [Jay]",
+		"_occupation": "I am ",
+		"_occupations": {
+			"front_end": "front-end(?) developer",
+			"memer": "memer",
+			"weeb": "weeb",
+			"jojo": "stand user"
+		}
+	},
+	"about": {
+		"nickname": "Jay",
+		"title": "Mr.",
+		"name": "Jiraded",
+		"surname": "Manopraneet",
+		"birthdate": "16 April 1995",
+		"relationship": "Single",
+		"nation": "Thai",
+		"militaryStatus": "Completed"
+	},
+	"education": [
+		{
+			"university": "Khon Kaen University",
+			"degreee": "Bachelor of Science / Computer Science",
+			"GPA": "3.19",
+			"period": "July 2014 - September 2018"
+		}
+	],
+	"language": {
+		"th": "Thai",
+		"en": "English",
+		"reading": "Reading",
+		"listening": "Listening",
+		"speaking": "Speaking",
+		"writing": "Writing",
+		"good": "Good",
+		"okay": "Okay"
+	}
+}
